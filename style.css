@@ -1,0 +1,32 @@
+* {
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+
+body {
+    background-color: #FFF8DC;
+}
+
+h1 {
+    font-family: 'Abril Fatface', serif;
+    color: rgba(28, 28, 255, 0.877);
+    text-decoration: underline;
+    text-align: center;
+}
+
+.urdu {
+    color: indigo;
+    font-family: 'Marhey', sans-serif;
+    font-size: larger;
+    text-align: right;
+}
+
+.writer {
+
+    color: rgb(0, 0, 0);
+}
+
+.copyright {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.288);
+}
